@@ -1,5 +1,5 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2019-10-24
 ---
 1st publish to blog
